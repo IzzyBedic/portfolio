@@ -1,0 +1,156 @@
+head:
+  title: "Izzy Bedichek's Data Science Portfolio"
+  
+# showcase
+showcase:
+  enable: true
+  title: "Nice to Meet You!"
+  subtitle: ""
+  description: "I am pursing a career in the use of data science to process 
+  ecological data. I did my thesis on reptilian bioindicators of urban land use 
+  and am interested in the use of data science to aid conservation efforts, 
+  especially of herpterofauna!"
+  image:
+    x: "img/showcase/selfie.jpeg"
+    _2x: "img/showcase/selfie.jpeg"
+  imageMobile:
+    x: "img/showcase/selfie.jpeg"
+    _2x: "img/showcase/selfie.jpeg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Izzy"
+    URL: "mailto:izzy@bedichek.org"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/izzy-bedichek-b91696204/"
+
+    - icon: "github"
+      URL: "https://github.com/IzzyBedic"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    I am a big nature-lover! I never missed a year of farm camp from pre-K to 
+    my senior year of high school; something about sleeping outside made waking up at 4am 
+    to start chores <i>fun</i>. I have also backpacked a couple sections of the
+    PCT! A large part of my motivation for a career in data science is the 
+    ability to see what is happening to the natural world that I grew up loving
+    and know is being threatened. I hope to contribute to scientific discoveries 
+    and policy changes to help save the outdoors and its constituents.
+  
+    </p>
+
+  image:
+    x: "img/who-am-i/me_w_bird.jpeg"
+    _2x: "img/who-am-i/me_w_bird.jpeg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: ""
+  button:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "cv/Bedichek_Isabelle_RESUME_4_28_2024.pdf"
+
+  items:
+    - title: "Research Assistant"
+      company: "ABCD Study® (VCU Site)"
+      duration: "March 2023 - Present"
+
+    - title: "Lab Collection Specimen Caretaker"
+      company: "Whitman College"
+      duration: "January 2022 − December 2022"
+
+    - title: "Visiting Researcher"
+      company: "The Carnegie Museum of Natural History"
+      duration: "July 2021 − August 2021"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Whitman College, Walla Walla, WA"
+      year: "2022"
+      degree: "B.A. in Biology"
+      
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+
+  works:
+    - title: "Machine Learning Project with Pine Beetle Data"
+      description: ""
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://rpubs.com/izzybedichek/1163955"
+      image:
+        x: "img/works/pine_beetle_img.jpeg"
+        _2x: "img/works/pine_beetle_img.jpeg"
+      is_even: true
+
+    - title: ""
+      description: ""
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: ""
+      image:
+        x: "img/"
+        _2x: "img/"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+  
+    - name: ""
+      position: ""
+      content: ""
+      image:
+        x: "img/testimonials/"
+        _2x: "img/testimonials/"
+
+
+# contact
+contact:
+  enable: true
+  title: "Contact Izzy"
+    
+  image:
+    x: "img/showcase/dev_field_me.png"
+    _2x: "img/showcase/dev_field_me.png"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:izzy@bedichek.org'
+    
+  email:
+    title: "Email"
+    email: '<a href="mailto:izzy@bedichek.org">izzy@bedichek.org</a>'
+
+

@@ -3,15 +3,15 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Matt Dancho. All rights reserved.
+    copyright: © Izzy Bedichek. All rights reserved.
     site_logo:
-      _2x: img/general/business-science-logo.png
-      alt: Design & Code - Business Science
-      x: img/general/business-science-logo.png
+      _2x: img/showcase/dev_field.png
+      alt: developing field joke
+      x: img/showcase/dev_field.png
   googleAnalyticsID: ''
   logo:
-    text1: Matt
-    text2: Dancho
+    text1: Izzy
+    text2: Bedichek
   plugins:
     css:
       - URL: css/main.css
