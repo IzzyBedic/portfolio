@@ -97,6 +97,17 @@ client_and_work:
 
 
   works:
+  - title: "Shiny Dashboard for Golden Retriever Data"
+      description: "A dynamic modelling dashboard for looking at presence of illness in golden retrievers."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://izzy-bedichek.shinyapps.io/golden_retriever_model_dash_4_29_2024/#section-readme-for-presentation"
+      image:
+        x: "img/works/golden_dash_img.jpeg"
+        _2x: "img/works/golden_dash_img.jpeg"
+      is_even: false
+
     - title: "Machine Learning Project with Pine Beetle Data"
       description: ""
       button:
@@ -108,18 +119,6 @@ client_and_work:
         _2x: "img/works/pine_beetle_img.jpeg"
       is_even: true
 
-    - title: ""
-      description: ""
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: ""
-      image:
-        x: "img/"
-        _2x: "img/"
-      is_even: false
-
-    
 
 # testimonial
 testimonial:
