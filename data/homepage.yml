@@ -108,12 +108,12 @@ client_and_work:
         _2x: "img/works/pine_beetle_img.jpeg"
       is_even: true
 
-    - title: ""
+    - title: "Golden Retriever Shiny App"
       description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: ""
+        URL: "https://izzy-bedichek.shinyapps.io/golden_retriever_model_dash_4_29_2024/#section-readme-for-presentation"
       image:
         x: ""
         _2x: ""
