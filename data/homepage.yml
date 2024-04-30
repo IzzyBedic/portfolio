@@ -98,8 +98,8 @@ work:
 
   works:
     - title: "Shiny Dashboard for Golden Retriever Data"
-        description: "A dynamic modelling dashboard for looking at presence of illness in golden retrievers."
-        button:
+      description: "A dynamic modelling dashboard for looking at presence of illness in golden retrievers."
+      button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
         URL: "https://izzy-bedichek.shinyapps.io/golden_retriever_model_dash_4_29_2024/#section-readme-for-presentation"
