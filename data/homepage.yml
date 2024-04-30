@@ -106,7 +106,7 @@ client_and_work:
       image:
         x: "img/works/golden_dash_img.jpeg"
         _2x: "img/works/golden_dash_img.jpeg"
-      is_even: true
+      is_even: false
 
     - title: "Machine Learning Project with Pine Beetle Data"
       description: ""
@@ -117,7 +117,7 @@ client_and_work:
       image:
         x: "img/works/pine_beetle_img.jpeg"
         _2x: "img/works/pine_beetle_img.jpeg"
-      is_even: false
+      is_even: true
 
 
 # testimonial
