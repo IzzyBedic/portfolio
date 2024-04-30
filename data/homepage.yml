@@ -95,6 +95,7 @@ work:
         _2x: "img/clients/asgardia@2x.png"
       alt: "Asgardia"
 
+
   works:
     - title: "Shiny Dashboard for Golden Retriever Data"
       description: "A dynamic modelling dashboard for looking at presence of illness in golden retrievers."
