@@ -115,8 +115,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://izzy-bedichek.shinyapps.io/golden_retriever_model_dash_4_29_2024/#section-readme-for-presentation"
       image:
-        x: ""
-        _2x: ""
+        x: "img/works/golden_img.jpeg"
+        _2x: "img/works/golden_img.jpeg"
       is_even: false
 
     
