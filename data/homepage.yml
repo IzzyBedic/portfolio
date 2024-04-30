@@ -108,15 +108,15 @@ client_and_work:
         _2x: "img/works/pine_beetle_img.jpeg"
       is_even: true
 
-    - title: "Golden Retriever Shiny App"
+    - title: ""
       description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
         URL: ""
       image:
-        x: "img/works/dev_field.png"
-        _2x: "img/works/dev_field.png"
+        x: "img/"
+        _2x: "img/"
       is_even: false
 
     
@@ -152,5 +152,3 @@ contact:
   email:
     title: "Email"
     email: '<a href="mailto:izzy@bedichek.org">izzy@bedichek.org</a>'
-
-
