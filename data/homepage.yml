@@ -115,8 +115,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: ""
       image:
-        x: "img/"
-        _2x: "img/"
+        x: ""
+        _2x: ""
       is_even: false
 
     
