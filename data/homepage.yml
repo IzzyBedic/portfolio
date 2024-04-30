@@ -84,7 +84,7 @@ education:
       
 
 # works
-work:
+client_and_work:
   enable: true
   title: "Portfolio"
   

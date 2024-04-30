@@ -24,7 +24,7 @@ params:
   sections:
     - showcase
     - about
-    - work
+    - client_and_work
     - experience
     - education
     - testimonial
