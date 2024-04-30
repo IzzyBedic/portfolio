@@ -83,7 +83,7 @@ education:
       degree: "B.A. in Biology"
       
 
-# Works
+# works
 work:
   enable: true
   title: "Portfolio"
@@ -94,7 +94,6 @@ work:
         x: "img/clients/asgardia.png"
         _2x: "img/clients/asgardia@2x.png"
       alt: "Asgardia"
-
 
   works:
     - title: "Shiny Dashboard for Golden Retriever Data"
@@ -117,7 +116,7 @@ work:
       image:
         x: "img/works/pine_beetle_img.jpeg"
         _2x: "img/works/pine_beetle_img.jpeg"
-      is_even: false
+      is_even: true
 
 
 # testimonial
