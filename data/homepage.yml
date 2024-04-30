@@ -113,7 +113,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://izzy-bedichek.shinyapps.io/golden_retriever_model_dash_4_29_2024/"
+        URL: ""
       image:
         x: "img/works/"
         _2x: "img/works"
