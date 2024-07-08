@@ -24,7 +24,7 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/izzy-bedichek-b91696204/"
+      URL: "https://www.linkedin.com/in/isabelle-bedichek-b91696204/"
 
     - icon: "github"
       URL: "https://github.com/IzzyBedic"
@@ -58,7 +58,7 @@ experience:
   button:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "cv/Bedichek_Isabelle_RESUME_4_27_2024.pdf"
+    URL: "cv/Bedichek_Isabelle_RESUME.pdf"
 
   items:
     - title: "Research Assistant"
