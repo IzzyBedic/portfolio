@@ -63,7 +63,7 @@ experience:
   items:
     - title: "Research Assistant"
       company: "ABCD Study® (VCU Site)"
-      duration: "March 2023 - Present"
+      duration: "March 2023 - July 2024"
 
     - title: "Lab Collection Specimen Caretaker"
       company: "Whitman College"
@@ -81,6 +81,9 @@ education:
     - university: "Whitman College, Walla Walla, WA"
       year: "2022"
       degree: "B.A. in Biology"
+    - university: "Northeastern University"
+      year: "2027"
+      degree: "M.S. in Data Science"
       
 
 # Client & Work
